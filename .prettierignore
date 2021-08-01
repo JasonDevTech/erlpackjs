@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.vscode
+/.github
+/.husky
+.gitignore
+yarn.lock
